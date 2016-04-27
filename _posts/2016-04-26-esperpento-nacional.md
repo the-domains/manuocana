@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: caption alt
-datePublished: '2016-04-27T18:16:03.859Z'
-dateModified: '2016-04-27T18:10:35.586Z'
+datePublished: '2016-04-27T18:17:38.861Z'
+dateModified: '2016-04-27T18:16:07.093Z'
 title: cacafuti
 author:
   - name: author name
