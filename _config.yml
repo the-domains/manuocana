@@ -1,6 +1,6 @@
 name: manuocana
 favicon: null
-layout_spectrum: 0.49419
+layout_spectrum: 0.74476
 typography_spectrum: 0.24497
 title: manu ocana
 cta:
@@ -22,8 +22,8 @@ color:
     - '#b7b6b1'
     - '#5e5c5d'
     - '#a44740'
-  brandStrength: 1
-  lightness: 1
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 1
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []
