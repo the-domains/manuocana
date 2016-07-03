@@ -1,29 +1,41 @@
-name: manuocana
-favicon: null
-layout_spectrum: 0.74103
-typography_spectrum: 0.74942
 title: manu ocana
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 0.5
+  lightness: 1
+  brandColors:
+    - '#FDE9D1'
+    - '#8B9D9D'
+    - '#C5BCB3'
+    - '#1C2826'
+    - '#54707B'
+  rhythmicContrast: 0
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: manuocana
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#cdc3b0'
-    - '#52453d'
-    - '#060606'
-    - '#958d7c'
-    - '#f5f0e7'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.74942
+layout_spectrum: 0
