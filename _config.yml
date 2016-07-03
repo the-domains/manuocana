@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: manuocana
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.74942
-layout_spectrum: 0
+typography_spectrum: 0.1541219
+layout_spectrum: 0.7473118
